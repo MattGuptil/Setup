@@ -1,2 +1,2 @@
 # Setup
-Creating first Repo
+Trying to organize
